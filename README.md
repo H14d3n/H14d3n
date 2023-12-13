@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @H14d3n
 - 👀 I’m interested in Gaming and finding solutions!
-- 🌱 I’m currently learning Linux Bash and Python
+- 🌱 I’m currently learning Linux Bash and Java
 - 📫 How to reach me : Instagram, Discord: hi69en
 
 Have a nice day! :D
