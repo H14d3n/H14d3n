@@ -5,5 +5,3 @@
 - 🌱 I’m currently learning PS, Bash, Java, Python and SQL
 - 📫 How to reach me : Instagram, Discord
 - ✨ Feel free to DM me!
-
-
