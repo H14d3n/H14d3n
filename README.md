@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tizian</h1>
 <h3 align="center">Developer in apprenticeship with FernUni Schweiz</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=h14d3n&label=Profile%20views&color=0e75b6&style=flat" alt="h14d3n" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=h14d3n" alt="h14d3n" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
